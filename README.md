@@ -1,5 +1,13 @@
 # FNP Sales Analytics Dashboard
 
+## Project Overview
+
+This project analyzes sales data from Ferns N Petals (FNP), a gifting company specializing in products for occasions such as Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and Anniversaries.
+
+The objective of this project was to build an interactive Excel dashboard that helps uncover insights related to sales performance, customer behavior, product performance, and seasonal demand trends.
+
+---
+
 ## Problem Statement
 
 Ferns N Petals (FNP) is a gifting company that delivers products for various occasions such as Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and Anniversaries.
@@ -37,13 +45,7 @@ This dashboard was built to answer the following business questions:
 - Generated business insights and recommendations based on dashboard findings.
   
 
-## Project Overview
 
-This project analyzes sales data from Ferns N Petals (FNP), a gifting company specializing in products for occasions such as Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and Anniversaries.
-
-The objective of this project was to build an interactive Excel dashboard that helps uncover insights related to sales performance, customer behavior, product performance, and seasonal demand trends.
-
----
 
 ## Tools Used
 
