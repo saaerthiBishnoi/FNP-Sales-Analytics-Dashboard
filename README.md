@@ -116,6 +116,10 @@ FNP-Sales-Analytics-Dashboard
 
 ---
 
+## Project Outcome
+
+The dashboard enabled analysis of ₹35.2L+ revenue across 1000 orders and helped identify top-performing occasions, customer segments, product categories, and sales trends. The insights generated can support inventory planning, targeted marketing campaigns, and customer retention strategies.
+
 
 
 ## Key Insights
