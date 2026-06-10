@@ -66,7 +66,7 @@ The objective of this project was to build an interactive Excel dashboard that h
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot below)
+![Dashboard Preview](Screenshot%202026-06-11%20015735.png)
 
 ---
 
