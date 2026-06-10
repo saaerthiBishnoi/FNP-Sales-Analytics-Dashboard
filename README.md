@@ -58,6 +58,30 @@ This dashboard was built to answer the following business questions:
 
 ---
 
+## Dataset Information
+
+The dashboard was built using three datasets:
+
+### Customers Dataset
+- Customer ID
+- Customer Name
+- City
+
+### Orders Dataset
+- Order ID
+- Order Date
+- Delivery Date
+- Quantity
+- Revenue
+- Occasion
+
+### Products Dataset
+- Product ID
+- Product Name
+- Category
+- Price
+
+  
 ## Repository Structure
 
 ```text
