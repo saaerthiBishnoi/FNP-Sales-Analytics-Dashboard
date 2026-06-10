@@ -92,18 +92,7 @@ FNP-Sales-Analytics-Dashboard
 
 ---
 
-## Business Questions Answered
 
-1. What is the total revenue generated?
-2. Which occasions generate the highest revenue?
-3. Which product categories contribute the most revenue?
-4. Which cities place the highest number of orders?
-5. How does revenue vary across months?
-6. Which customers contribute the highest revenue?
-7. How does revenue vary by day of week?
-8. What time of day generates the highest revenue?
-
----
 
 ## Key Insights
 
