@@ -1,5 +1,42 @@
 # FNP Sales Analytics Dashboard
 
+## Problem Statement
+
+Ferns N Petals (FNP) is a gifting company that delivers products for various occasions such as Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and Anniversaries.
+
+The company wants to better understand its sales performance, customer purchasing behavior, product demand, and delivery efficiency.
+
+The objective of this project is to analyze historical sales data and build an interactive Excel dashboard that provides actionable business insights and supports data-driven decision-making.
+
+
+## Business Questions
+
+This dashboard was built to answer the following business questions:
+
+1. What is the total revenue generated?
+2. What is the average order value and delivery time?
+3. How does revenue vary across different months?
+4. Which occasions generate the highest revenue?
+5. Which products contribute the most revenue?
+6. Which cities place the highest number of orders?
+7. Which customers generate the highest revenue?
+8. How does revenue vary across weekdays?
+9. What time of day generates the highest revenue?
+10. What business recommendations can be derived from the analysis?
+
+
+
+## My Approach
+
+- Cleaned and prepared the datasets.
+- Created relationships between Customers, Orders, and Products tables using Power Pivot.
+- Developed KPI metrics including Revenue, Average Order Value, and Delivery Time.
+- Built interactive Pivot Tables and Pivot Charts.
+- Added Slicers for dynamic filtering.
+- Performed customer, product, city, occasion, and time-based analysis.
+- Generated business insights and recommendations based on dashboard findings.
+  
+
 ## Project Overview
 
 This project analyzes sales data from Ferns N Petals (FNP), a gifting company specializing in products for occasions such as Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and Anniversaries.
