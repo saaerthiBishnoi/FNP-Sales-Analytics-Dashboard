@@ -19,6 +19,29 @@ The objective of this project was to build an interactive Excel dashboard that h
 
 ---
 
+## Repository Structure
+
+```text
+FNP-Sales-Analytics-Dashboard
+│
+├── FNP DASHBOARD.xlsx
+├── customers.csv
+├── orders.csv
+├── products.csv
+├── Screenshot 2026-06-11 015735.png
+└── README.md
+```
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Modeling
+- Data Visualization
+- Business Analysis
+- KPI Development
+- Dashboard Design
+- Interactive Reporting
+
 ## Dashboard KPIs
 
 | KPI                   | Value      |
